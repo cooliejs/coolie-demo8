@@ -2,4 +2,4 @@
 
 build resource module
 
-visit <https://github.com/cooliejs/coolie-demo8/>
+visit <https://coolie.ydr.me/guide/build-resource-module/>
